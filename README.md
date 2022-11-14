@@ -9,4 +9,4 @@
 **3.**  
 
 
-My github portfolio: https://github.com/j-davitt
+My github portfolio: [j-davitt](https://github.com/j-davitt)
