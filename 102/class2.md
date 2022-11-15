@@ -17,6 +17,7 @@ The best text editor is the one that offers services you use and like to code wi
 
 - `pwd` - Print Working Directory. Shows current directory
 - `ls` - list. Shows what is in current directory
+
 >- `ls [options] [location]`
 >- `-l` is for long list
 >- `/etc` list the contents of the directory
