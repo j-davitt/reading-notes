@@ -1,6 +1,6 @@
 # My reading journal for Code Fellows 102
 
-[Table of Contents](/reading-notes/ToC.md)
+[Table of Contents](/reading-notes/ToC)
 
 
 My name is Joe Davitt and I am excited to set out on this career path.
