@@ -9,7 +9,7 @@
 
 [Class 3 - Git Intro](/reading-notes/102/class3)
 
-[Class 4](/reading-notes/102/class4)
+[Class 4 - HTML Structure](/reading-notes/102/class4)
 
 [Class 5](/reading-notes/102/class5)
 
