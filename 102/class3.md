@@ -1,6 +1,10 @@
 
 # Class 3 notes - Git Intro
 
+Git is the foundation for collaborative work in this field.
+
+## Basic commands
+
 Clone a repo to the current directory by using `git clone` followed by the repo address.
 Check file status using `git status`
 
@@ -13,3 +17,8 @@ Check file status using `git status`
 4. Push your changes to git using `git push origin main`
 
 When you are not ready to commit changes but do not want to lose them use `git stash` temporarily hide changes. When you are ready to continue working on the changes use `git stash apply` to retrieve them.
+
+
+## Things I want to know more about
+
+`git stash`
