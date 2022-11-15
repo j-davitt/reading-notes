@@ -3,11 +3,11 @@
 
 ## Code 102 reading notes
 
-[Class 1](/reading-notes/102/class1)
+[Class 1 - Markdown](/reading-notes/102/class1)
 
-[Class 2](/reading-notes/102/class2)
+[Class 2 - The Coder's Computer](/reading-notes/102/class2)
 
-[Class 3](/reading-notes/102/class3)
+[Class 3 - Git Intro](/reading-notes/102/class3)
 
 [Class 4](/reading-notes/102/class4)
 
