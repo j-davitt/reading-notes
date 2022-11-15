@@ -11,3 +11,5 @@ Check file status using `git status`
 2. Stage the modified file using `git add filename` or stage all changes using `git add .`
 3. Commit the staged changes using `git commit -m "description of changes"`
 4. Push your changes to git using `git push origin main`
+
+When you are not ready to commit changes but do not want to lose them use `git stash` temporarily hide changes. When you are ready to continue working on the changes use `git stash apply` to retrieve them.
