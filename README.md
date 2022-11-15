@@ -14,4 +14,4 @@ To me, a growth mindset is keeping an open mind and believing I have the ability
 >- Learn from others.
 
 
-My github portfolio: [j-davitt](https://github.com/j-davitt)
+:computer: My github portfolio: [j-davitt](https://github.com/j-davitt)
