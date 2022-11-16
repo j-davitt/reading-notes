@@ -50,3 +50,19 @@ Main parts consist of:
 
 >Example: `<p>Example <strong>text</strong></p>`
 
+**Images** are embedded using `<img>` with `src` containing the path to the image and `alt` containing descriptive text.
+
+>Example: `<img src="images/pic1.jpg" alt="description of image">`
+
+The **Heading** element allows you to specify headings or subheadings `<h1> - <h6>`.
+
+**Lists** are wrapped in `<ul></ul>` for unordered lists and `<ol></ol>` for ordered lists. Each item will be wrapped in `<li></li>`.
+
+>Example: <br>`<ul>`
+    <br>`<li>Item 1</li>`
+    <br>`<li>Item 2</li>`
+    <br>`<li>Item 3</li>`
+ <br> `</ul>`
+
+ **Links** are made with `<a href="url">link name</a>`
+ 
