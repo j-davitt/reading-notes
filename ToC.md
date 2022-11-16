@@ -11,9 +11,9 @@
 
 [Class 4 - HTML Structure](/reading-notes/102/class4)
 
-[Class 5](/reading-notes/102/class5)
+[Class 5 - CSS](/reading-notes/102/class5)
 
-[Class 6](/reading-notes/102/class6)
+[Class 6 - JavaScript](/reading-notes/102/class6)
 
 [Class 7](/reading-notes/102/class7)
 
