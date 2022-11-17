@@ -15,9 +15,9 @@
 
 [Class 6 - JavaScript](/reading-notes/102/class6)
 
-[Class 7](/reading-notes/102/class7)
+[Class 7 - Programming with JavaScript](/reading-notes/102/class7)
 
-[Class 8](/reading-notes/102/class8)
+[Class 8 - Operators and Loops](/reading-notes/102/class8)
 
 ## Code 201 reading notes
 
