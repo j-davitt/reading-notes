@@ -1,17 +1,58 @@
 # My reading journal for Code Fellows 102
 
-[Table of Contents](/reading-notes/ToC)
-
-
 My name is Joe Davitt and I am excited to set out on this career path.
 
-To me, a growth mindset is keeping an open mind and believing I have the ability to persevere through *hard work and dedication.* 
-
->3 reminders to stay in a **growth mindset:**
->
->- Accept that I will struggle at times.
->- Keep my eyes on the end goal.
->- Learn from others.
+My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 
-My github portfolio: [j-davitt](https://github.com/j-davitt)
+## Reading Notes
+
+### **Code 102** reading notes
+
+[Class 1 - Markdown](/reading-notes/102/class1)
+
+[Class 2 - The Coder's Computer](/reading-notes/102/class2)
+
+[Class 3 - Git Intro](/reading-notes/102/class3)
+
+[Class 4 - HTML Structure](/reading-notes/102/class4)
+
+[Class 5 - CSS](/reading-notes/102/class5)
+
+[Class 6 - JavaScript](/reading-notes/102/class6)
+
+[Class 7 - Programming with JavaScript](/reading-notes/102/class7)
+
+[Class 8 - Operators and Loops](/reading-notes/102/class8)
+
+### **Code 201** reading notes
+
+[Class 1](/reading-notes/201/class1)
+
+[Class 2](/reading-notes/201/class2)
+
+[Class 3](/reading-notes/201/class3)
+
+[Class 4](/reading-notes/201/class4)
+
+[Class 5](/reading-notes/201/class5)
+
+[Class 6](/reading-notes/201/class6)
+
+[Class 7](/reading-notes/201/class7)
+
+[Class 8](/reading-notes/201/class8)
+
+[Class 9](/reading-notes/201/class9)
+
+[Class 10](/reading-notes/201/class10)
+
+[Class 11](/reading-notes/201/class11)
+
+[Class 12](/reading-notes/201/class12)
+
+[Class 13](/reading-notes/201/class13)
+
+[Class 14](/reading-notes/201/class14)
+
+[Class 15](/reading-notes/201/class15)
