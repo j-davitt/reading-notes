@@ -41,9 +41,24 @@ the properties are color: and padding:
 ## JS
 
 **What data type is a sequence of text enclosed in single quote marks?**
-
+String
 
 **List 4 types of JavaScript operators.**
-
+Operators are mathematical symbols that produce a result based on two values or variables. `+` adds two numbers or strings. `- * /` Subtract, multiply, and divide. `=` assigns value to a variable.
 
 **Describe a real world Problem you could solve with a Function.**
+You can use functions to solve math equations and many other things.
+
+### Conditionals
+
+An if statement checks a **statement** and if it evaluates to **true**, then the code block will execute.
+
+**What is the use of an `else if`?**
+`else if` is used to chain extra outcomes to an `if...else`
+
+**List 3 different types of comparison operators.**
+`===` tests if a value is identical to another. `<` and `>` test if a value is greater or less than another. `<=` and `>=` test if a value is less than or equal to or greater than or equal to.
+
+**What is the difference between the logical operator `&&` and `||`?**
+
+`&&` AND; chains two or more expressions so that all of them have to be `true`. `||` OR; chains two or more expressions so that only one has to be `true`
