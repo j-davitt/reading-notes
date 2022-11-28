@@ -29,7 +29,7 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 [Class 1](/reading-notes/201/class1)
 
-[Class 2](/reading-notes/201/class2)
+[Class 2 - Basics of HTML, CSS, & JS](/reading-notes/201/class2)
 
 [Class 3](/reading-notes/201/class3)
 
