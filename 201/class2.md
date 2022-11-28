@@ -18,19 +18,32 @@ The `title` attribute. Example: `<abbr title='Doctor'>Dr.</abbr>`
 ## CSS
 
 **What are ways we can apply CSS to our HTML?**
-
+CSS can be added to HTML using an external stylesheet, an internal stylesheet, or an inline style.
 
 **Why should we avoid using inline styles?**
-
+It should be avoided because it is least efficient for maintenance and is more difficult to read and understand.
 
 Review the block of code below and answer the following questions:
 - **What is representing the selector?**
+h2
 
 - **Which components are the CSS declarations?**
+color: black; and padding: 5px;
 
 - **Which components are considered properties?**
+the properties are color: and padding:
 
 > `h2 {
   color: black;
   padding: 5px;
 }`
+
+## JS
+
+**What data type is a sequence of text enclosed in single quote marks?**
+
+
+**List 4 types of JavaScript operators.**
+
+
+**Describe a real world Problem you could solve with a Function.**
