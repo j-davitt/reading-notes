@@ -33,7 +33,7 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 [Class 3 - HTML Lists, Control Flow, and CSS Box Model](/reading-notes/201/class3)
 
-[Class 4](/reading-notes/201/class4)
+[Class 4 - HTML Links, JS Functions, and Intro to CSS Layout](/reading-notes/201/class4)
 
 [Class 5](/reading-notes/201/class5)
 
