@@ -35,7 +35,7 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 [Class 4 - HTML Links, JS Functions, and Intro to CSS Layout](/reading-notes/201/class4)
 
-[Class 5](/reading-notes/201/class5)
+[Class 5 - Images, Color, Text](/reading-notes/201/class5)
 
 [Class 6](/reading-notes/201/class6)
 
