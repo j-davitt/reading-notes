@@ -37,7 +37,7 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 [Class 5 - Images, Color, Text](/reading-notes/201/class5)
 
-[Class 6](/reading-notes/201/class6)
+[Class 6 - Problem Domain, Objects, and the DOM](/reading-notes/201/class6)
 
 [Class 7](/reading-notes/201/class7)
 
