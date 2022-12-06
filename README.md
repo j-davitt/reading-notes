@@ -39,7 +39,7 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 [Class 6 - Problem Domain, Objects, and the DOM](/reading-notes/201/class6)
 
-[Class 7](/reading-notes/201/class7)
+[Class 7 - Object-Oriented Programming, HTML Tables](/reading-notes/201/class7)
 
 [Class 8](/reading-notes/201/class8)
 
