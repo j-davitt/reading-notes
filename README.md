@@ -41,7 +41,7 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 [Class 7 - Object-Oriented Programming, HTML Tables](/reading-notes/201/class7)
 
-[Class 8](/reading-notes/201/class8)
+[Class 8 - CSS Layout](/reading-notes/201/class8)
 
 [Class 9](/reading-notes/201/class9)
 
