@@ -43,13 +43,13 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 [Class 8 - CSS Layout](/reading-notes/201/class8)
 
-[Class 9](/reading-notes/201/class9)
+[Class 9 - Forms and JS Events](/reading-notes/201/class9)
 
-[Class 10](/reading-notes/201/class10)
+[Class 10 - Debugging](/reading-notes/201/class10)
 
-[Class 11](/reading-notes/201/class11)
+[Class 11 - Audio, Video, and Images](/reading-notes/201/class11)
 
-[Class 12](/reading-notes/201/class12)
+[Class 12 - Chart.js, Canvas](/reading-notes/201/class12)
 
 [Class 13](/reading-notes/201/class13)
 
