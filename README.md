@@ -51,7 +51,7 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 [Class 12 - Chart.js, Canvas](/reading-notes/201/class12)
 
-[Class 13](/reading-notes/201/class13)
+[Class 13 - Local Storage](/reading-notes/201/class13)
 
 [Class 14](/reading-notes/201/class14)
 
