@@ -56,3 +56,6 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 14 - CSS Transitions and Animations](/reading-notes/201/class14)
 
 [Class 15 - Psychological Safety](/reading-notes/201/class15)
+
+### **Code 301** reading notes
+
