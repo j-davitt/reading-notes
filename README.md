@@ -60,3 +60,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 ### **Code 301** reading notes
 
 [Class 1 - Intro to React and Components](/reading-notes/301/class1)
+
+[Class 2 - State and Props](/reading-notes/301/class2)
