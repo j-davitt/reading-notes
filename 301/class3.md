@@ -42,13 +42,13 @@ copying an array, combining arrays, using math functions, using arrays as argume
 ## How to Pass Functions Between Components
 
 1. **In the video, what is the first step that the developer does to pass functions between components?**
-
+create it on the level of the information you are changing.
 
 2. **In your own words, what does the increment function do?**
-
+modify the value within an object
 
 3. **How can you pass a method from a parent component into a child component?**
-
+pass it down to the child component
 
 4. **How does the child component invoke a method that was passed to it from a parent component?**
-
+from props
