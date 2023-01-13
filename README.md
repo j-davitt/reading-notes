@@ -64,3 +64,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 2 - State and Props](301/class2)
 
 [Class 3 - Passing Functions as Props](301/class3)
+
+[Class 4 - React and Forms](301/class4)
