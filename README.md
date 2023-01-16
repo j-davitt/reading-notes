@@ -68,3 +68,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 4 - React and Forms](301/class4)
 
 [Class 5 - Putting it all together](301/class5)
+
+[Class 6 - Node.js](301/class6)
