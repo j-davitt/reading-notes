@@ -70,3 +70,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 5 - Putting it all together](301/class5)
 
 [Class 6 - Node.js](301/class6)
+
+[Class 7 - REST](301/class7)
