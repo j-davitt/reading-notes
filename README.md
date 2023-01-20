@@ -74,3 +74,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 7 - REST](301/class7)
 
 [Class 8 - APIs](301/class8)
+
+[Class 9 - Functional Programming](301/class9)
