@@ -76,3 +76,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 8 - APIs](301/class8)
 
 [Class 9 - Functional Programming](301/class9)
+
+[Class 10 - In Memory Storage](301/class10)
