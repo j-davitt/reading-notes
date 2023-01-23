@@ -78,3 +78,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 9 - Functional Programming](301/class9)
 
 [Class 10 - In Memory Storage](301/class10)
+
+[Class 11 - MongoDB and Mongoose](301/class11)
