@@ -82,3 +82,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 11 - MongoDB and Mongoose](301/class11)
 
 [Class 12 - CRUD](301/class12)
+
+[Class 13 - More CRUD](301/class13)
