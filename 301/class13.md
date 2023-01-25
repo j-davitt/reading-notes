@@ -14,4 +14,4 @@ UPDATE AND DELETE
 CRUD is a way of manipulating information, describing the function of an application. REST is controlling data through HTTP commands.
 
 **If you had to describe the process of creating a RESTful API in 5 steps, what would they be?**
-
+Have the processes to POST, GET, PUT, DELETE, and something to pull data from.
