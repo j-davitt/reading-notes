@@ -84,3 +84,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 12 - CRUD](301/class12)
 
 [Class 13 - More CRUD](301/class13)
+
+[Class 14 - Inclusion and Diversity](301/class14)
