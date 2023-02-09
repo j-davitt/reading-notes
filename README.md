@@ -89,6 +89,6 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 ### **Code 401** reading notes
 
-[Prep - Terminal](401/prep1.md)
+[Prep - Terminal](401/prep1)
 
 [Class 1 - ](401/class1)
