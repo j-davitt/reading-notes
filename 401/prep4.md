@@ -1,5 +1,4 @@
 # Intro to SQL
-# Intro to SQL
 
 SQL uses tables with key/value pairs and is highly scalable and pretty straight forward.
 
