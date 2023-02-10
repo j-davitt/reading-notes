@@ -1,7 +1,7 @@
 # Intro to SQL
 # Intro to SQL
 
-[SQL](./assets/SQL1.png)
+![SQL](./assets/SQL1.png)
 
 [SQL](./assets/SQL2.png)
 
