@@ -93,4 +93,6 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 [Prep - Data Structure and Algos](401/prep2.md)
 
+[Prep - Engineering](401/prep3.md)
+
 [Class 1 - ](401/class1.md)
