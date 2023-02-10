@@ -95,4 +95,6 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 
 [Prep - Engineering](401/prep3.md)
 
+[Prep - Intro to SQL](401/prep4.md)
+
 [Class 1 - ](401/class1.md)
