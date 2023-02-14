@@ -98,3 +98,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Prep - Intro to SQL](401/prep4.md)
 
 [Class 1 - Node Ecosystem](401/class1.md)
+
+[Class 2 - Express, NPM, TDD, CI/CD](401/class2.md)
