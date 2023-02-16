@@ -102,3 +102,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 2 - Express, NPM, TDD, CI/CD](401/class2.md)
 
 [Class 3 - Express REST API](401/class3.md)
+
+[Class 4 - Data Modeling](401/class4.md)
