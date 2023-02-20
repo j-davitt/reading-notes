@@ -104,3 +104,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 3 - Express REST API](401/class3.md)
 
 [Class 4 - Data Modeling](401/class4.md)
+
+[Class 6 - Authentication](401/class6.md)
