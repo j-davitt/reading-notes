@@ -106,3 +106,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 4 - Data Modeling](401/class4.md)
 
 [Class 6 - Authentication](401/class6.md)
+
+[Class 7 - Bearer Authorization](401/class7.md)
