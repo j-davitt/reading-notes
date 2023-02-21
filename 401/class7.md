@@ -25,10 +25,10 @@ If content is altered, the signature wont match and it will be rejected.
 ## JWTs Explained
 
 **Why use JWT?**
-
+To securely transfer information between any two bodies.
 
 **JWT is Compact and self-contained. Describe how this is useful to a non-technical friend.**
-
+The information is contained within the token so the database doesnt get hit with more queries.
 
 **What are the three components (the structure) of a JWT signature?**
-
+The header, payload, and signature
