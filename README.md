@@ -110,3 +110,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 7 - Bearer Authorization](401/class7.md)
 
 [Class 8 - Access Control](401/class8.md)
+
+[Class 9 - Authorization/Authentication](401/class9.md)
