@@ -112,3 +112,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 8 - Access Control](401/class8.md)
 
 [Class 9 - Authorization/Authentication](401/class9.md)
+
+[Class 11 - Event Driven Applications](401/class11.md)
