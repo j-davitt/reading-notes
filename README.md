@@ -120,3 +120,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 13 - Message Queues](401/class13.md)
 
 [Class 16 - AWS](401/class16.md)
+
+[Class 17 - AWS: S3 and Lambda](401/class17.md)
