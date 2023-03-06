@@ -19,16 +19,13 @@ Under AWS Services > Compute
 **Explain the general difference between T2 Micro and XL.**
 Micro has 1 vCPU and 1 GB of memory. XL has 4 vCPU and 16 GB of memory.
 
-**Explain a “Compute Cycle” to a non-technical friend.**
-
-
 ## Elastic Beanstalk
 
 **What is Elastic Beanstalk?**
-
+A service that deploys, manages, and scales web apps and services for you.
 
 **Describe the relationship between EC2 and Elastic Beanstalk.**
-
+Elastic Beanstalk creates a virtual machine to run your app.
 
 **Name some benefits of using Elastic Beanstalk.**
-
+build apps without having to manage or config infrastructure, quick to get started.
