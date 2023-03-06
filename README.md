@@ -118,3 +118,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 12 - Socket.io](401/class12.md)
 
 [Class 13 - Message Queues](401/class13.md)
+
+[Class 16 - AWS](401/class16.md)
