@@ -124,3 +124,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 17 - AWS: S3 and Lambda](401/class17.md)
 
 [Class 18 - AWS: API, Dynamo and Lambda](401/class18.md)
+
+[Class 19 - AWS: Events](401/class19.md)
