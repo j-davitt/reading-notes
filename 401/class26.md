@@ -24,9 +24,6 @@ yes, be default React DOM escapes any value embedded in JSX before rendering the
 
 ## rendering elements
 
-**Explain what a React Component is to a non-technical friend.**
-
-
 **Describe mutability and React Components, specifically, how is the UI updated?**
 React elements are immutable. Once you create an element, you can’t change its children or attributes.
 
