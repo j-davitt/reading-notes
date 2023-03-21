@@ -128,3 +128,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 19 - AWS: Events](401/class19.md)
 
 [Class 26 - Component Based UI](401/class26.md)
+
+[Class 27 - useState() Hook](401/class27.md)
