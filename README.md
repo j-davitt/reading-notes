@@ -132,3 +132,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 27 - useState() Hook](401/class27.md)
 
 [Class 28 - Component Lifecycle](401/class28.md)
+
+[Class 29 - Advanced State with Reducers](401/class29.md)
