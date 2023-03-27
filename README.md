@@ -134,3 +134,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 28 - Component Lifecycle](401/class28.md)
 
 [Class 29 - Advanced State with Reducers](401/class29.md)
+
+[Class 31 - Context API](401/class31.md)
