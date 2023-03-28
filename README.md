@@ -136,3 +136,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 29 - Advanced State with Reducers](401/class29.md)
 
 [Class 31 - Context API](401/class31.md)
+
+[Class 32 - Context API - Behaviors](401/class32.md)
