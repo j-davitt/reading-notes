@@ -3,13 +3,13 @@
 ## Multiple Reducers Example
 
 **Why create multiple reducers?**
-
+For ease of maintaining.
 
 **How would you combine multiple reducers?**
-
+by using the combineReducers function.
 
 **How will you manage state as an immutable object? why?**
-
+return a new object with the updated state.
 
 ## Redux Docs: Using Combined Reducers
 
