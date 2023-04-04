@@ -142,3 +142,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 33 - Login and Auth](401/class33.md)
 
 [Class 34 - API Integration](401/class34.md)
+
+[Class 36 - Application State with Redux](401/class36.md)
