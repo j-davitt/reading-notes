@@ -148,3 +148,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 37 - Redux - Combined Reducers](401/class37.md)
 
 [Class 38 - Async Actions](401/class38.md)
+
+[Class 39 - Redux: Additional Topics](401/class39.md)
