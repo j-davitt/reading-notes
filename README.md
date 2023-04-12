@@ -154,3 +154,5 @@ My *GitHub* portfolio: [j-davitt](https://github.com/j-davitt)
 [Class 41 - React Native](401/class41.md)
 
 [Class 42 - Ethics](401/class42.md)
+
+[Class 43 - Gatsby, next.js, and others](401/class43.md)
